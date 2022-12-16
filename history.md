@@ -4,6 +4,7 @@
 * git checkout feature
 * git checkout develop
 * git log --graph -–all
+* git checkout main
 * git merge develop --no-ff
 * git reset --hard HEAD^
 * git merge develop
